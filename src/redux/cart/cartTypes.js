@@ -1,0 +1,6 @@
+export const CLEAR_CART="CLEAR_CART"
+export const INCREMENT="INCREMENT"
+export const DECREMENT="DECREMENT"
+export const REMOVE_SINGLE_ITEM="REMOVE_SINGLE_ITEM"
+export const TOTAL_MONEY="TOTAL_MONEY"
+export const ADD_TO_BAG="ADD_TO_BAG"

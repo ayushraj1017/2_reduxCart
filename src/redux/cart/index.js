@@ -1,0 +1,6 @@
+export {clearCart} from './cartAction'
+export {increment} from './cartAction'
+export {decrement} from './cartAction'
+export {removeSingleItem} from './cartAction'
+export {totalMoney} from './cartAction'
+export {addToBag} from './cartAction'
